@@ -1,6 +1,6 @@
 #!/bin/bash
  
-INTERVAL="0.1"  # update interval in seconds
+INTERVAL="1"  # update interval in seconds
  
 if [ -z "$1" ]; then
         echo
